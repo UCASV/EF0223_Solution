@@ -1,0 +1,20 @@
+8
+A A
+Q F
+F Q
+A V
+Q Q
+F V
+V S
+V Q
+10
+Q S
+V Q
+A V
+F A
+Q V
+F A
+F V
+S V
+A V
+A V

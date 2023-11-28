@@ -1,0 +1,19 @@
+7
+Q A
+A S
+F A
+F V
+A V
+Q A
+A S
+10
+F A
+S S
+Q A
+A S
+F S
+F S
+A S
+S Q
+F V
+Q Q
